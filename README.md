@@ -2,13 +2,24 @@
 I developed an AI companion web app that allows users to create and chat with personalized chatbots modeled after famous personalities.
 
 Built using Next.js and includes both a responsive frontend written with React and TailwindCSS along with a Node.js/Express backend. Users can sign up for an account to access the ability to custom build their own AI companion.
-The main feature is the intuitive bot creation flow that lets you pick an avatar, name, description and define the personality of your AI bot by providing details about their background and an example conversation. The bots are powered by OpenAI's natural language processing models to generate responses that mimic their given persona.
-Each AI companion has persistent memory and personality powered by vector embeddings stored in Pinecone's real-time database. This gives them continuity across conversations instead of just turn-by-turn responses.
+The main feature is the intuitive bot creation flow that lets you pick an avatar, name, description and define the personality of your AI bot by providing details about their background and an example conversation. The bots are powered by **OpenAI's natural language processing models** to generate responses that mimic their given persona.
+Each AI companion has persistent memory and personality powered by **vector embeddings** stored in **Pinecone's real-time database**. This gives them continuity across conversations instead of just turn-by-turn responses.
 Additional features I implemented include categorization and filtering of bot types, free-text search, light/dark modes, ability to edit/delete bots, and historical conversation logs for each user.
-The app is monetized via a Stripe subscription model where users have to purchase a plan to access the full custom chatbot creation features. Rate limiting and basic free bots provide a limited experience for non-paying users
+The app is monetized via a Stripe **subscription model** where users have to purchase a plan to access the full custom chatbot creation features. Rate limiting and basic free bots provide a limited experience for non-paying users
 
 Have a good little chat with your Idols.
-Check out the video for more information.
+Check out the Images for more information.
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/100e23e4-65ab-4900-b55f-ccaa0c963932)
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/78735a93-d270-4080-b811-2fd537f4b318)
+
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/fd588547-8a8b-4523-a21e-0aded9b0b31b)
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/7b6e60f7-f900-486c-902e-9c93b588da10)
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/c617d9bb-b960-4615-b1dc-346ac5dd5eba)
+Subscribe / Upgrade for your own Avatar
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/3d22a985-708d-4ec1-88fe-342cbc94fd8e)
+
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/4b7b3e62-449a-42f7-a0e7-d70b7f6b9197)
+![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/5a438391-2213-4f6a-b5ff-787a79a15b6f)
 
 
 ## Features
@@ -18,9 +29,7 @@ Check out the video for more information.
 - Client-side form validation using react-hook-form
 - Global error handling using react-query
 - AI-generated images via OpenAI 
-- AI-generated videos via Replicate AI
 - AI-generated text conversations via OpenAI
-- AI-generated music via Replicate AI
 - Loading state management  
 - Stripe subscriptions for paid plans
 - Free tier with API rate limiting
