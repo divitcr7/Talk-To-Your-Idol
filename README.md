@@ -16,7 +16,7 @@ Check out the Images for more information.
 ![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/7b6e60f7-f900-486c-902e-9c93b588da10)
 ![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/c617d9bb-b960-4615-b1dc-346ac5dd5eba)
 Subscribe / Upgrade for your own Avatar
-![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/3d22a985-708d-4ec1-88fe-342cbc94fd8e)
+![image](![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/f9495f5c-e807-4fec-a835-a13c10c8177a))
 
 ![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/4b7b3e62-449a-42f7-a0e7-d70b7f6b9197)
 ![image](https://github.com/divitcr7/Talk-To-Your-Idol/assets/67183559/5a438391-2213-4f6a-b5ff-787a79a15b6f)
